@@ -1,0 +1,32 @@
+header {
+  background: aquamarine;
+  color: #ffffff;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+}
+
+header h1 {
+  padding: 20px 0;
+  text-align: center;
+}
+
+nav ul {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+}
+
+nav ul li {
+  margin: 0 20px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+main section form {
+  margin: 20px 0;
+  background-color: aquamarine;
+  padding: 20px;
+}
